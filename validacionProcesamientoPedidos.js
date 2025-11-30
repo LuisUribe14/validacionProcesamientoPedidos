@@ -85,6 +85,7 @@ const pedidoEjemplo = {
     nombre: "Juan Pablo",
     producto: "Laptop",
     cantidad: 2,
+    promo: "PROMO1"
 };
 
 procesarPedido(pedidoEjemplo);
